@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './UseReducerPractice';
+import App from './ReactQueryPractice';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
